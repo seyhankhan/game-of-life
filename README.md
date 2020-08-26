@@ -1,3 +1,3 @@
 # Conway's Game Of Life iOS App
 
-Simulates the game of life on an iOS application using Xcode and Swift.
+This project simulates Conway's famous 'Game of Life' on an iOS application, including the ability to download cell patterns from online and save them.
