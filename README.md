@@ -1,7 +1,7 @@
 # Conway's Game Of Life iOS App
 
 My final project simulated Conway's famous 'Game of Life' on an iOS application, including the ability to download cell patterns from online and save them.
-Submitted in August 2019
+Submitted on August 7, 2019
 
 ## What game?
 https://playgameoflife.com
