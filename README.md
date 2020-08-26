@@ -1,1 +1,1 @@
-# Conway's Game Of Life App
+# Conway's Game Of Life iOS App
